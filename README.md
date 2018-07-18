@@ -1,2 +1,3 @@
-# SamsungA6-2018
-device tree for Samsung SM-A600G
+# TWRP_A6LTE
+TWRP Device Tree for Samsung Galaxy A6 2018 (SM-A600G).
+Work In Progress.
